@@ -35,9 +35,9 @@ const Home = () => {
               className="flex flex-col gap-5"
             >
               <p className="max-w-md font-normal text-grey-600 text-base">
-                Create your unique and exclusice shirrt with our brand new #D
+                Create your unique and exclusive shirts with our brand new 3D
                 customisations tool.
-                <strong>Unleash your imagination</strong> and define your own
+                <strong> Unleash your imagination</strong> and define your own
                 style.
               </p>
               <CustomButton
