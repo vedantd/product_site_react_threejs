@@ -1,4 +1,4 @@
-#  AI-Powered 3D Website Using React
+#  3D Website Using Threejs with React
 The website uses the following technologies:
 
 -   ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
